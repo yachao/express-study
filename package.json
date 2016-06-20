@@ -1,0 +1,15 @@
+{
+  "engines": {
+    "node": ">=0.12"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongodb": "^2.1.18",
+    "mongoose": "^4.5.0",
+    "nodemon": "^1.9.2"
+  }
+}
